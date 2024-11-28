@@ -1,6 +1,6 @@
 {
     "name": "react-cropper",
-    "version": "2.3.3",
+    "version": "2.3.4",
     "description": "Cropper as React Component",
     "main": "dist/react-cropper.umd.js",
     "module": "dist/react-cropper.es.js",
@@ -40,10 +40,10 @@
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url": "https://github.com/react-cropper/react-cropper.git"
+        "url": "https://github.com/dorlandimort/react-cropper.git"
     },
     "dependencies": {
-        "cropperjs": "^1.6.0"
+        "cropperjs": "github:dorlandimort/cropperjs#bust-cache-ios-webkit"
     },
     "peerDependencies": {
         "react": ">=17.0.2"
