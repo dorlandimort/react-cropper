@@ -20,7 +20,8 @@
         "clean": "rimraf dist",
         "prepublishOnly": "yarn build",
         "commit": "git-cz",
-        "release": "np"
+        "release": "np",
+        "prepare": "yarn build"
     },
     "author": "Fong Kuanghuei <waneblade@gmail.com>",
     "maintainers": [
