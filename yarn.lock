@@ -2810,10 +2810,10 @@ create-require@^1.1.0:
   resolved "https://registry.npmjs.org/create-require/-/create-require-1.1.1.tgz"
   integrity sha512-dcKFX3jn0MpIaXjisoRvexIJVEKzaq7z2rZKxf+MSr9TkdmHmsU4m2lcLojrj/FHl8mk5VxMmYA+ftRkP/3oKQ==
 
-"cropperjs@github:dorlandimort/cropperjs#642bc683b5782963cb5bd17c840ed589525c33a3":
-  version "1.6.2"
-  resolved "git+ssh://git@github.com/dorlandimort/cropperjs.git#642bc683b5782963cb5bd17c840ed589525c33a3"
-  integrity sha512-UED7YNXSMD1wjJ7hOr3As0/KfQdFfohFhwWqiWgWYKtlgwmbe7Ni2p+GtC7i+r0HfMdovih++iCLVY7nUq/jNw==
+"cropperjs@github:dorlandimort/cropperjs#8b35ff1849a5f58d1aefff0d77d3280b69694b5b":
+  version "1.6.3"
+  resolved "git+ssh://git@github.com/dorlandimort/cropperjs.git#8b35ff1849a5f58d1aefff0d77d3280b69694b5b"
+  integrity sha512-vOpoYIL80h1qFkl1wMZGP0TzfEycdS2Vt9/hP8xUC/hVvBW+lv7YFg2jDhhbYX0VG3gxv3HzBBoILrqWGpkiOQ==
 
 cross-spawn@^7.0.2, cross-spawn@^7.0.3:
   version "7.0.3"
